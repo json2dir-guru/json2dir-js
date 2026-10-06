@@ -1,0 +1,14 @@
+{
+  "name": "json2dir-js",
+  "version": "0.1.0",
+  "description": "json2dir in plain JavaScript: one file, no dependencies",
+  "bin": {
+    "json2dir": "json2dir.js"
+  },
+  "files": [
+    "json2dir.js"
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}
